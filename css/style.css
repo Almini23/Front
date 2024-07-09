@@ -397,8 +397,6 @@ textarea {
     box-sizing: inherit;
   }
 
- 
-
   body {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -463,10 +461,8 @@ textarea {
   opacity: .75;
 }
 
-
-
-
 /* Header styles end*/
+
 
 /* Intro styles start*/
 
@@ -530,7 +526,6 @@ textarea {
 /* Intro styles end*/
 
 
-
 .button {
   background-color: white;
   color: black;
@@ -555,7 +550,7 @@ textarea {
   background-color: #9d9a9a;
 }
 
-
+/* Ending styles start */
 .ending_1_page{
   margin-bottom: 40px; 
   margin-top: 40px;
@@ -563,6 +558,7 @@ textarea {
   top: 1000px; 
   right: 40px;
 } 
+/* Ending styles end */
 
 .background{
   background-color: #000;
@@ -570,6 +566,9 @@ textarea {
   height: 1558px;
   padding: 120px;
 }
+
+/* We_do styles start */
+
 .we_do_wrap{
   width: 1200px;
   height: 1338px;
